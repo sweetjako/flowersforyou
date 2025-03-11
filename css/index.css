@@ -82,7 +82,7 @@ a {
 }
 
 .sparkle {
-  fill: #AAAAAA;
+  fill: gold;
   transition: all 800ms ease;
 }
 
@@ -106,6 +106,6 @@ a {
 }
 
 .btn:hover .sparkle {
-  fill: white;
+  fill: purple;
   transform: scale(1.2);
 }
